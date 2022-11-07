@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ver_lista">Ver agenda</string>
+    <string name="borrar">Limpiar agenda</string>
+    <string name="agregar">Agregar evento</string>
+    <string name="hint_evento">Nombre de evento</string>
+    <string name="fecha">Fecha</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="asunto">Asunto</string>
+    <string-array name="asuntos">
+        <item>Personal</item>
+        <item>Trabajo</item>
+        <item>Médica</item>
+        <item>Recreativa</item>
+        <item>Otra</item>
+    </string-array>
+    <string name="inicio">Inicio</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cambiarNombre">Cambiar Nombre</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="revertir">Revertir Último Cambio</string>
+    <string name="icono">Icono</string>
+</resources>
